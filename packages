@@ -1,0 +1,18 @@
+Package: appsync for 8.0os
+Version: 6.0
+Architecture: iphoneos-arm
+Maintainer: sivel
+Depends: python | python2 | python3 | python3.7 | python3.8
+Filename: debs/com.91.appsyncunified.fengsync8_6.0.0-1_iphoneos-arm
+Size: 28672
+MD5sum: DAC429673B2A6EE136E9CF157A875B5B
+SHA1: 5CC7738D931029B632C0BF1249225FE936095E7E
+SHA256: 32c43e12e524c303e732c3aee639f1b0ce06098d6e435af91bded1590a994a42
+Section: Networking
+Priority: standard
+Homepage: https://github.com/445
+Description: CLI tool for testing internet bandwidth using speedtest.net
+Tag: purpose::console, role::hacker
+Author: sivel
+Depiction: https://baidu.com
+Name: appsync for 8.0os
